@@ -1,0 +1,15 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "<%= datasource %>": {
+    "name": "<%= datasource %>",
+    "host": "<%= host %>",
+    "port": <%= port %>,
+    "database": "<%= database %>",
+    "user": "<%= user %>",
+    "password": "<%= password %>",
+    "connector": "mysql"
+  }
+}

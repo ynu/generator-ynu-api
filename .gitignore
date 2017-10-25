@@ -1,0 +1,6 @@
+node_modules
+coverage
+
+.idea
+
+generators/app/templates/server/public/javascripts/libs/
