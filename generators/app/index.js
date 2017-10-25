@@ -74,6 +74,6 @@ module.exports = yeoman.Base.extend({
 
   install: function () {
     this.log("run npmInstall");
-    // this.npmInstall();
+    this.npmInstall();
   }
 });
