@@ -1,4 +1,4 @@
-# generator-ynu-api [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![NSP Status][nsp-image]][nsp-url] [![Maintainability][codeclimate-maintainability-image]][codeclimate-maintainability-url] [![Test Coverage][codeclimate-test_coverage-image]][codeclimate-test_coverage-url] [![HitCount][hits-image]][hits-url] [![dependencies Status][daviddm-image]][daviddm-url] [![devDependencies Status][daviddm-dev-image]][daviddm-dev-url]
+# generator-ynu-api [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![NSP Status][nsp-image]][nsp-url] [![Maintainability][codeclimate-maintainability-image]][codeclimate-maintainability-url] [![Test Coverage][codeclimate-test_coverage-image]][codeclimate-test_coverage-url] [![HitCount][hits-image]][hits-url] [![dependencies Status][daviddm-image]][daviddm-url] [![devDependencies Status][daviddm-dev-image]][daviddm-dev-url] [![Code Health][landscape-image]][landscape-url] [![Waffle.io - Columns and their card count][waffle-image]][waffle-url]
 > Boilerplate to use Loopback3, Docker for simple api of YNU.
 
 ## Installation
@@ -63,3 +63,7 @@ MIT © [liudonghua](http://www.liudonghua.com)
 [daviddm-url]: https://david-dm.org/ynu/generator-ynu-api
 [daviddm-dev-image]: https://david-dm.org/ynu/generator-ynu-api/dev-status.svg
 [daviddm-dev-url]: https://david-dm.org/ynu/generator-ynu-api?type=dev
+[landscape-image]: https://landscape.io/github/ynu/generator-ynu-api/master/landscape.svg?style=flat
+[landscape-url]: https://landscape.io/github/ynu/generator-ynu-api/master
+[waffle-image]: https://badge.waffle.io/ynu/generator-ynu-api.svg?columns=all
+[waffle-url]: http://waffle.io/ynu/generator-ynu-api
