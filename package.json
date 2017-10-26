@@ -1,6 +1,6 @@
 {
   "name": "generator-ynu-api",
-  "version": "1.2.0",
+  "version": "0.1.0",
   "description": "Boilerplate to use Loopback3, Docker for simple api of YNU.",
   "homepage": "https://github.com/ynu/generator-ynu-api",
   "author": {
