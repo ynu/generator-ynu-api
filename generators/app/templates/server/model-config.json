@@ -37,7 +37,7 @@
     "public": false
   },
   "admin": {
-    "dataSource": "<%= datasource %>",
+    "dataSource": "<%= admin_datasource %>",
     "public": true
   }
 }

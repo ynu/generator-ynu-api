@@ -11,5 +11,14 @@
     "user": "<%= user %>",
     "password": "<%= password %>",
     "connector": "mysql"
+  },
+  "<%= admin_datasource %>": {
+    "name": "<%= admin_datasource %>",
+    "host": "<%= admin_host %>",
+    "port": <%= admin_port %>,
+    "database": "<%= admin_database %>",
+    "user": "<%= admin_user %>",
+    "password": "<%= admin_password %>",
+    "connector": "mysql"
   }
 }
